@@ -1,4 +1,4 @@
-FILEPATH = "App_1/todos.txt" #revert to todos.txt when uploading web app
+FILEPATH = "todos.txt"
 
 def get_todos(filepath=FILEPATH):
     """
